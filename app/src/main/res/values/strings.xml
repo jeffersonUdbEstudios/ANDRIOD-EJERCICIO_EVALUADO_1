@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EJERCICIO_EVALUADO_1</string>
+    <string name="full_name">Nombres y apellidos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="birth_date">Fecha de nacimiento</string>
+    <string name="address">Dirección de residencia</string>
+</resources>
